@@ -1,2 +1,2 @@
 # hello-world
-This is my first git project
+I'm gonna be the very best that no one ever was!
